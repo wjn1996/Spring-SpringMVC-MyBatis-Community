@@ -1,5 +1,6 @@
 # Spring-SpringMVC-MyBatis-Community
 《开源软件设计与开发》课程作业——开放前沿SSM框架
+姓名：王嘉宁，学号：51195100016
 ## SSM community
 ## SSM框架简介
 &emsp;&emsp;SSM全称为spring，springmvc，mybatis框架，是基于j2ee的新型WEB开源开发框架，其基于MVC模式架构，充分提现高内聚，低耦合的设计原则，已有诸多应用使用基于SSM框架开发。mvc框架是在ssh框架基础上演变而来，解决hibernate门槛高，成本高，效率低等缺点。
