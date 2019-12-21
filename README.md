@@ -1,7 +1,7 @@
 # Spring-SpringMVC-MyBatis-Community
 《开源软件设计与开发》课程作业——开放前沿SSM框架
 姓名：王嘉宁，学号：51195100016
-## SSM community
+## 开放前沿SSM框架
 ## SSM框架简介
 &emsp;&emsp;SSM全称为spring，springmvc，mybatis框架，是基于j2ee的新型WEB开源开发框架，其基于MVC模式架构，充分提现高内聚，低耦合的设计原则，已有诸多应用使用基于SSM框架开发。mvc框架是在ssh框架基础上演变而来，解决hibernate门槛高，成本高，效率低等缺点。
 
@@ -11,11 +11,13 @@
 
 &emsp;&emsp;MyBatis本是apache的一个开源项目iBatis，2010年这个项目由apache software foundation迁移到了google code，并且改名为MyBatis。MyBatis是一个基于Java的持久层框架。iBATIS提供的持久层框架包括SQL Maps和Data Access Objects（DAO）MyBatis  消除了几乎所有的 JDBC 代码和参数的手工设置以及结果集的检索。MyBatis使用简单的XML或注解用于配置和原始映射，将接口和Java的POJOs（Plain Old Java Objects，普通的  Java对象）映射成数据库中的记录。
 ## 我与SSM项目
-&emsp;&emsp;SSM开源开发框架提出三年里，以其轻量级快速部署的特点，成为web应用主流前沿技术。本人也因此尝试使用SSM开发两款应用
+&emsp;&emsp;SSM开源开发框架提出三年里，以其轻量级快速部署的特点，成为web应用主流前沿技术。本人自2017年至今，尝试使用SSM开发两款应用
 
-&emsp;&emsp;（1）基于SSM的图像标注管理平台。这个系统是属于外包类系统，因此无法开源，目前挂在互站网上出售：https://www.huzhan.com/code/goods369780.html
+&emsp;&emsp;（1）基于SSM的图像标注管理平台。这个系统是属于外包类项目，因此无法开源，目前挂在互站网上出售：https://www.huzhan.com/code/goods369780.html
 
 &emsp;&emsp;（2）教育知识图谱：这个系统也是基于SSM开发的教育知识图谱构建工具，目前处于开发阶段，网址是：http://47.100.79.2/gitedutol/admin/login（目前开辟了管理系统外员访问模式，账号public，密码123456）
+
+&emsp;&emsp;另外本人也开发过其他基于SSM的系统，2017年5月[“ITTIME在线程序编译训练系统”](http://www.iqiyi.com/w_19ru1crgd5.html)参加的第十届中国大学生计算机设计大赛江苏省一等奖；
 ### SSM部署
 
 &emsp;&emsp;在eclipse集成工具中新建项目，在web.xml中配置项目环境，添加springmvc-config.xml配置，由于SSM是基于注解的MVC，因此需要在该文件内注册控制器（controller），调用注解包（annotation）以及处理handler，同时需要配置前端viewer的地址前后缀。另外还需要配置applicationContext.xml，该文件主要用于绑定数据源，以及声明一些数据模型和应用参数。
