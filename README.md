@@ -15,7 +15,7 @@
 
 &emsp;&emsp;（1）基于SSM的图像标注管理平台。这个系统是属于外包类项目，因此无法开源，目前挂在互站网上出售：https://www.huzhan.com/code/goods369780.html
 
-&emsp;&emsp;（2）教育知识图谱：这个系统也是基于SSM开发的教育知识图谱构建工具，目前处于开发阶段，网址是：http://47.100.79.2/gitedutol/admin/login（目前开辟了管理系统外员访问模式，账号public，密码123456）
+&emsp;&emsp;（2）教育知识图谱：这个系统也是基于SSM开发的教育知识图谱构建工具，目前处于开发阶段，网址是：[GitEduTol教育云平台](http://47.100.79.2/gitedutol/admin/login)（目前开辟了管理系统外员访问模式，账号public，密码123456）
 
 &emsp;&emsp;另外本人也开发过其他基于SSM的系统，2017年5月[“ITTIME在线程序编译训练系统”](http://www.iqiyi.com/w_19ru1crgd5.html)参加的第十届中国大学生计算机设计大赛江苏省一等奖；
 ### SSM部署
