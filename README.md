@@ -42,7 +42,8 @@
 &emsp;&emsp;众所周知，在SSM框架出来之前，一直统治者JavaWeb开发领域的是Structs，SSH框架，以及后来的SpringBoot，而SSM框架则是有机结合了Spring、SpringMVC以及改进了Hibernate的MyBatis，它的面向切面的编程和控制反转机制开拓了新的开发思想，当然SSM框架也是三年前的产物，现如今Dubbo、SpringCloud，以及一些支持分布式的FastdfsSpring boot、Dubbo+zookeeper等，时刻更新着开发框架。不过以Java自身的优势（框架完全以Jar包为配置源、自带的JVM等），SSM框架在近些年来依然不会落伍，就好像现阶段依然有许多应用是基于SSH、甚至是Spring+Structs2等框架开发，因此各个框架均有适用于具体业务背景的地方，SSM也因如此。
 
 &emsp;&emsp;最后附上我们的SSM项目开发的系统界面
-教育知识图谱构建工具
+![教育知识图谱构建工具](https://github.com/wjn1996/Spring-SpringMVC-MyBatis-Community/blob/master/images/%E5%9B%BE%E7%89%871.png)
+![教育知识图谱构建工具](https://github.com/wjn1996/Spring-SpringMVC-MyBatis-Community/blob/master/images/%E5%9B%BE%E7%89%872.png)
+![图像标注管理系统](https://github.com/wjn1996/Spring-SpringMVC-MyBatis-Community/blob/master/images/%E6%88%AA%E5%8F%96%E5%9B%BE%E7%89%87%E5%B9%B6%E6%A0%87%E6%B3%A8.jpg)
+![图像标注管理系统](https://github.com/wjn1996/Spring-SpringMVC-MyBatis-Community/blob/master/images/%E7%AE%A1%E7%90%86%E5%91%98%E6%9F%A5%E8%AF%A2%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%E6%83%85%E5%86%B5.jpg)
 
-
-图像标注管理系统
