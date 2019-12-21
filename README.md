@@ -15,7 +15,7 @@
 
 &emsp;&emsp;（1）基于SSM的图像标注管理平台。这个系统是属于外包类系统，因此无法开源，目前挂在互站网上出售：https://www.huzhan.com/code/goods369780.html
 
-&emsp;&emsp;（2）教育知识图谱：这个系统也是基于SSM开发的教育知识图谱构建工具，目前处于开发阶段，网址是：http://47.100.79.2/gitedutol/admin/login
+&emsp;&emsp;（2）教育知识图谱：这个系统也是基于SSM开发的教育知识图谱构建工具，目前处于开发阶段，网址是：http://47.100.79.2/gitedutol/admin/login（目前开辟了管理系统外员访问模式，账号public，密码123456）
 ### SSM部署
 
 &emsp;&emsp;在eclipse集成工具中新建项目，在web.xml中配置项目环境，添加springmvc-config.xml配置，由于SSM是基于注解的MVC，因此需要在该文件内注册控制器（controller），调用注解包（annotation）以及处理handler，同时需要配置前端viewer的地址前后缀。另外还需要配置applicationContext.xml，该文件主要用于绑定数据源，以及声明一些数据模型和应用参数。
